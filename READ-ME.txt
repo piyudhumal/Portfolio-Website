@@ -1,0 +1,11 @@
+  =>  Template Name    : Portfolio
+
+  =>  Template Link    : https://priyadhumal.com/freelancer-portfolio-template
+
+  =>  Template License : https://priyadhumal.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Priya Dhumal
+
+  =>  Author Website   : https://priyadhumal.com
+
+  =>  About Priya Dhumal: HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://priyadhumal.com/about-us )
